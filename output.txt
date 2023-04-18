@@ -1,0 +1,4 @@
+yarn run v1.22.19
+$ node ./embed-documents/index.mjs -
+{ loc: { lines: { from: 1, to: 7 } } }
+Done in 0.35s.
